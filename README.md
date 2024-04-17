@@ -1,3 +1,2 @@
 # test
-testing git 
-I am adding more information to this file.
+Used to test things. *add more things only if needed*
